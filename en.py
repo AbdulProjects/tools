@@ -9,7 +9,7 @@ import urllib.parse, base64, sys
 #	- urlencoding:
 #		python3 en.py
 #
-# 		type whatever text to urlencode it  or you can simply use do :
+# 		type whatever text to urlencode it  or you can simply do :
 #
 #		echo "TEXT" | python3 en.py
 #
@@ -17,7 +17,7 @@ import urllib.parse, base64, sys
 #
 #               python3 en.py
 #
-#               before starting the actaul text to encode type "b64 " at the begining of the string. or you can simply use do :
+#               before starting the actaul text to encode type "b64 " at the begining of the string. or you can simply do :
 #
 #               echo "b64 TEXT" | python3 en.py
 
